@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Versio-#11" transform="translate(-1302.000000, -46.000000)">
+            <g id="Group-12" transform="translate(443.000000, -4.000000)">
+                <g id="Group-10" transform="translate(0.000000, 50.000000)">
+                    <g id="Group-9">
+                        <g id="Group-3">
+                            <g id="Socials" transform="translate(806.000000, 0.000000)">
+                                <g id="Facebook-Icon" transform="translate(53.236715, 0.000000)">
+                                    <ellipse id="Oval-Copy" fill-opacity="0.186650815" fill="#000000" opacity="0.75464221" cx="19.263285" cy="19.5" rx="19.263285" ry="19.5"></ellipse>
+                                    <path d="M20.3112077,26.2306909 L17.5106763,26.2306909 L17.5106763,20.2062545 L16.1111111,20.2062545 L16.1111111,17.8846909 L17.5106763,17.8846909 L17.5106763,16.4920364 C17.5106763,14.5994727 18.3008213,13.4727273 20.5458696,13.4727273 L22.4147585,13.4727273 L22.4147585,15.7942909 L21.2470531,15.7942909 C20.3728502,15.7942909 20.3147101,16.1183455 20.3147101,16.7239091 L20.3112077,17.8846909 L22.4280676,17.8846909 L22.1800966,20.2062545 L20.3112077,20.2062545 L20.3112077,26.2306909 L20.3112077,26.2306909 Z" id="Facebook" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
