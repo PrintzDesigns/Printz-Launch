@@ -22,6 +22,10 @@ li {
   margin-right: 30px;
 }
 
+a {
+  color: #000;
+}
+
 .links {
   font-family: 'HELVETICA NEUE', sans-serif;
   font-size: 12px;
@@ -123,7 +127,7 @@ blockquote {
   font-family: 'PT Sans', sans-serif;
   font-size: 18px;
   line-height: 28px;
-  
+
 }
 
 .p-small {
@@ -135,7 +139,7 @@ blockquote {
   color: white;
   border: 1px solid white;
 
-  
+
 }
 .p-small-1 {
   margin-left: 30%;
@@ -146,7 +150,7 @@ blockquote {
   color: black;
   border: 1px solid black;
 
-  
+
 }
 
 
