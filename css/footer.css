@@ -1,0 +1,26 @@
+/* Footer CSS */
+.footer-logo {
+  height: 27px;
+  width: 100px;
+}
+
+.footer-link {
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-item {
+    text-align: center;
+    margin: auto;
+    font-family: 'HELVETICA NEUE', sans-serif;
+    font-size: 12px;
+    flex-basis: 0;
+    flex-grow: 1;
+}
+
+.footer-container {
+    display: flex;
+    width: 100%;
+    height: 100px;
+}
