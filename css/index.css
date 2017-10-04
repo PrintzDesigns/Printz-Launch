@@ -354,11 +354,13 @@ blockquote {
 }
 
 .intro {
+  font-family: 'HELVETICA NEUE', sans-serif;
   width: 450px;
   margin-left: 150px;
 }
 
 .part-1 {
+  margin-top: 200px;
   text-align: center;
   width: 980px;
 }
@@ -515,7 +517,7 @@ blockquote {
   letter-spacing: 0.42px;
   line-height: 50px;
   padding-top: 40px;
-  width: 400px;
+  /*width: 400px;*/
 }
 
 .div-block-8 {
@@ -971,14 +973,60 @@ blockquote {
   max-height: 88px;
 }
 
+.thumbnail {
+  float: left;
+  height: 39.5px;
+  margin-left: -45px;
+  margin-right: 30px;
+  width: 43px;
+}
+
+.thumbnail-profile {
+  background-image: url('../images/Profile_Icon.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.thumbnail-upload {
+  background-image: url('../images/Upload_File.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.thumbnail-visualize {
+  background-image: url('../images/Visual_Icon.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.thumbnail-collab {
+  /*background-image: url('../images/Visual_Icon.svg');*/
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.thumbnail-consult {
+  background-image: url('../images/Consult_Icon.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.thumbnail-buy {
+  background-image: url('../images/Buy_Icon.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
 .hiw {
-  width: 340px;
+  /*width: 340px;*/
   margin-right: 50px;
   /*margin-top: -20px;*/
+  width: 340px;
 }
 
 .hiwh3 {
-  margin-left: 100px;
+  /*margin-left: 100px;*/
   margin-top: -30px;
 }
 
